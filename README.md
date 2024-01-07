@@ -29,7 +29,6 @@ Here's a walkthrough of implemented features:
 GIF created with [LICEcap] (http://www.cockos.com/licecap/).  
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
